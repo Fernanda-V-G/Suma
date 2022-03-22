@@ -1,0 +1,10 @@
+body {
+    background-color:mintcream;
+}
+h1{
+    text-align:center;
+    color:plum;
+}
+p{
+    color:red;
+}
